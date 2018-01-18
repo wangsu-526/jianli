@@ -370,7 +370,7 @@ body {
 }
 .swiper-slide.eleven .eleven-tu1{
     position: absolute;
-    top: 27%;
+    top: 26%;
     left: 33%;
     width: 36%;
     height: 3%;
@@ -424,4 +424,11 @@ body {
     left: 45%;
     width: 22%;
     height: 2.5%;
+}
+.swiper-slide.eleven .eleven-tu9{
+    position: absolute;
+    top: 39%;
+    left: 37%;
+    width: 28%;
+    height: 15%;
 }
